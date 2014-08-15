@@ -62,18 +62,8 @@ Through your  server logs you should be  able to get the average
 amount of time spent on a page.  It is  recommended that you use 
 that number for your delay when simulating internet activity.
 
-
-WHERE IS IT?
-------------
-The latest version of  siege can be obtained via  anonymous FTP:
-ftp://sid.joedog.org/pub/siege/siege-latest.tar.gz
-
-Siege is mirrored at nerf-herder:
-http://nerf-herder.net/siege
-
 Updates and announcements are distributed via freshmeat:
 http://freshmeat.net/projects/siege
-
 
 INSTALLATION
 ------------
